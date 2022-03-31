@@ -1,0 +1,27 @@
+.header {
+    background-image: url(./IMAGE/12-15-2015WashUNICEF.jpg); text-align: center; padding: 30px;
+}
+.main {
+padding: 10px; color: black; justify-content: space-around; background-color: rgb(251, 255, 0);flex-direction: row;
+text-align: justify; display: flex;
+}
+.contenneur  { display: flex; border: black; flex-direction: row; justify-content: space-around;
+flex-wrap: wrap; border-radius: 5px;
+}
+.item1 {
+    background-image:url(./IMAGE/l\'eau\ c\'est\ la\ vie.jpg); width: 400px; height:290px; text-align: justify;
+}
+.item2 {
+    background-image: url(./IMAGE/pauvreté.jpg);  width: 400px; height: 290px; text-align: justify; 
+}
+.item3 {
+    background-image: url(./IMAGE/FAIM\ 1.jpg);   width: 400px; height: 290px; text-align: justify;
+}
+.item4 {
+    background: rgb(255, 0, 242);   width: 200px; height: 300px;
+}
+.item5 {
+    background: rgb(255, 208, 0);  width: 200px; height: 300px;x;
+}
+.item6 {
+    background: rgb(0, 255, 55);   width: 200px; height: 300px;
